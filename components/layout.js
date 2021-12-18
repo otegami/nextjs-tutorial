@@ -4,7 +4,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Otegami'
+const name = 'Otegami(Takuya Kodama)'
+
 export const siteTitle = 'Next.js Sample Website'
 
 const Layout = ({ children, home }) => {
